@@ -1,0 +1,19 @@
+<view class='record-box-wrapper'>
+  <view class="record-header-wrapper">
+    <view class="record-header-icon">
+    </view>
+    <text>hello, world</text>
+  </view>
+  <view class="record-tab-wrapper">
+    <view class="tab-col-text" bindtap="onTab" data-tab="1">
+      <text>记录1</text>
+    </view>
+    <view class='tab-col1' bindtap="onTab" data-tab="1">
+      <text >记录2</text>
+    </view>
+  </view>
+  <view>
+    <view class="">
+    </view>
+  </view>
+</view>

@@ -1,0 +1,27 @@
+    
+{
+  "pages": [
+    
+    "pages/record/index",
+    "pages/me/index"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/me/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/record/index",
+        "text": "我的"
+      }
+    ],
+    "selectedColor": "#FFC107"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFC107",
+    "navigationBarTitleText": "mini-bill",
+    "navigationBarTextStyle": "black"
+  }
+}
